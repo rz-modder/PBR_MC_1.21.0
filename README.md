@@ -1,7 +1,7 @@
 # HOW TO ENABLE PBR ON MCPE
-* To get PBR graphics, you must have Minecraft beta/preview version 1.21.0+. [You can get it here]().
-* If you already have Minecraft beta/preview version 1.21.0+, then you need to download additional add-ons. [Download from here]().
-* If you have prepared everything, you can proceed to the next stage.
+To get PBR graphics, you must have Minecraft beta/preview version 1.21.0+. [You can get it here]().
+If you already have Minecraft beta/preview version 1.21.0+, then you need to download additional add-ons. [Download from here]().
+If you have prepared everything, you can proceed to the next stage.
 
 1.Import the add-ons that you downloaded previously
 
