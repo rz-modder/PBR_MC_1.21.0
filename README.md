@@ -3,7 +3,6 @@ To get PBR graphics, you must have Minecraft beta/preview version 1.21.0+. [You 
 If you already have Minecraft beta/preview version 1.21.0+, then you need to download additional add-ons. [Download from here]().
 If you have prepared everything, you can proceed to the next stage.
 
-/*
 1.Import the add-ons that you downloaded previously
 <img src=""></img>
 
@@ -24,5 +23,5 @@ If you have prepared everything, you can proceed to the next stage.
 
 7.Done, now you can enjoy the PBR feature in Minecraft without using additional shaders
 <img src=""></img>
-*/
+
 
